@@ -70,7 +70,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "No 1 FACEBOOK LODGE UMUCHIMA, OWERRI WEST, IMO STATE",
-  phoneNo: "++2347046647941",
+  address: "No 1  FACEBOOK LODGE UMUCHIMA, OWERRI WEST, IMO STATE",
+  phoneNo: "+2347046647941",
   email: "ezechibuezeernest@gmail.com",
 };

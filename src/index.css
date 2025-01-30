@@ -7,3 +7,8 @@
 :root{
     font-family: "Inter", sans-serif;
 }
+@layer utilities{
+    .font-brush{
+        font-family: "Brush Script MT", cursive;
+    }
+}
